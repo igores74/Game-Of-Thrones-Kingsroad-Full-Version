@@ -248,4 +248,4 @@ This repository serves as the official landing page for Game of Thrones: Kingsro
 **Get the most recent version of Game of Thrones: Kingsroad today!**
 
 ---
-**Last updated:** 2026-10-27 19:55:52 UTC
+**Last updated:** 2026-10-27 23:39:15 UTC
